@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseConverter</string>
+    <string-array name="planets_array">
+        <item>BIN</item>
+        <item>OCT</item>
+        <item>DEC</item>
+        <item>HEX</item>
+    </string-array>
+</resources>
